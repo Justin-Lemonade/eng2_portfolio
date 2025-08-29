@@ -15,7 +15,7 @@ This was a class project where I built a simple website and threw it up on GitHu
 
 ---
 
-## 📚 What I Learned  
+## What I Learned  
 - GitHub is actually useful (and not a mysterious black hole).  
 - I can upload, manage, and keep track of files without too much drama.  
 - Markdown is *magic* for formatting.  
