@@ -9,8 +9,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: indigo
-      accent: indigo
+      primary: amber
+      accent: red
     - scheme: slate
       toggle:
         icon: material/weather-sunny
