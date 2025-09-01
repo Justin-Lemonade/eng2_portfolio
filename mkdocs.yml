@@ -4,15 +4,20 @@ site_url: https://<YOUR_GITHUB_USERNAME>.github.io/eng2_portfolio/
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - content.code.copy
   palette:
-    - scheme: slate-dark
-      primary: crimson
-      accent: red
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
 
 nav:
   - Home: index.md
