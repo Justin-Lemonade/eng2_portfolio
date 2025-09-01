@@ -18,7 +18,7 @@ nav:
   - Home: index.md
   - Projects:
       - Portfollio: projects/projects.md
-      - Future Projects:projects/Future.md
+      - Future Projects: projects/Future.md
   - About: about.md
 
 markdown_extensions:
