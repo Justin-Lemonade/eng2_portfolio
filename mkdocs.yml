@@ -10,14 +10,15 @@ theme:
     - toc.integrate
     - content.code.copy
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - scheme: slate-dark
+      primary: crimson
+      accent: red
 
 nav:
   - Home: index.md
   - Projects:
-      - Hello: projects/projects.md
+      - Portfollio: projects/projects.md
+      - Future Projects:projects/Future.md
   - About: about.md
 
 markdown_extensions:
