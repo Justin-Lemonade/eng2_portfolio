@@ -26,6 +26,9 @@ If you want to bring your project down from GitHub into a new folder on your com
 # Replace the link with YOUR repo’s URL
 git clone https://github.com/USERNAME/REPOSITORY-NAME.git
 
+cd repoName
+uv sync
+
 
 ```
 
@@ -49,6 +52,12 @@ pip install yourPackigesHere
 python main.py
 
 ```
-## Other fun stuff we learned
+### Project Recovery w/ pip
 
-##
+```
+git clone https://github.com/USERNAME/REPOSITORY-NAME.git
+
+cd repoName
+pip install -r requirements.txt
+
+```
