@@ -24,6 +24,7 @@ nav:
   - Projects:
       - Portfollio: projects/projects.md
       - Future Projects: projects/Future.md
+      - UV is Amazing: projects/uv_is_amazing.md
   - About: about.md
 
 markdown_extensions:
