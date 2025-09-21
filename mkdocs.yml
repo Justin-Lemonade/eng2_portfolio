@@ -23,8 +23,9 @@ nav:
   - Home: index.md
   - Projects:
       - Portfollio: projects/projects.md
-      - Future Projects: projects/Future.md
       - UV VS PIP Install: projects/uv_is_amazing.md
+      - Foam Cutter: projects/foam.md
+      - Future Projects: projects/Future.md
   - About: about.md
 
 markdown_extensions:
