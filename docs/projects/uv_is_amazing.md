@@ -61,3 +61,11 @@ cd repoName
 pip install -r requirements.txt
 
 ```
+
+
+
+Also here is how to send stuff to update on Github
+
+```
+uv run mkdocs gh-deploy
+```
